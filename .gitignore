@@ -1,5 +1,10 @@
-# Object file
-*.o
+# --------------------
+# Virtual environments
+# --------------------
+venv/
+.env/
+.env*/
+.venv/
 
 # --------------------
 # Python cache
