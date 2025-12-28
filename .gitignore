@@ -1,5 +1,27 @@
 # Object file
 *.o
 
-# Ada Library Information
-*.ali
+# --------------------
+# Python cache
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# --------------------
+# Data folders
+# --------------------
+data/
+data_p1/
+archive/
+
+# --------------------
+# Jupyter
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
